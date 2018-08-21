@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="Model.Screen.ScreenModel">
+    <path>Textures/Screen/Transition/</path>
+    <arts>
+      <Item>
+        <position>896 436</position>
+        <animations>
+          <Item>
+            <key>key1</key>
+            <texture>head</texture>
+            <frameCount>15</frameCount>
+            <rows>4</rows>
+            <columns>4</columns>
+            <delay>100</delay>
+            <repeat>true</repeat>
+          </Item>
+        </animations>
+      </Item>
+    </arts>
+    <buttons>
+    </buttons>
+    <texts>
+      <Item>
+        <position>810 554.5</position>
+        <size>Middle</size>
+        <text>Carregando</text>
+      </Item>
+    </texts>
+    <comps>
+    </comps>
+    <bounds>0 0 1920 1080</bounds>
+  </Asset>
+</XnaContent>

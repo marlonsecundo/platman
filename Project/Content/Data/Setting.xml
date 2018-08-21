@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="Model.Data.SettingsModel">
+    <AudioMusicEnabled>false</AudioMusicEnabled>
+    <VolumeMusic>1</VolumeMusic>
+    <AudioSoundEnabled>true</AudioSoundEnabled>
+    <VolumeSound>1</VolumeSound>
+    <Resolution>0 0</Resolution>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="Model.Screen.ScreenModel">
+    <path>Textures/Screen/Help/</path>
+    <arts>
+    </arts>
+    <buttons>
+      <Item>
+        <position>905 975.6</position>
+        <name>middle</name>
+        <delay>100</delay>
+        <key>Back</key>
+      </Item>
+    </buttons>
+    <texts>
+      <Item>
+        <position>60.2 42.9</position>
+        <size>ExtraBig</size>
+        <text>CONTROLES</text>
+      </Item>
+      <Item>
+        <position>933.3 990</position>
+        <size>MiddleSmall</size>
+        <text>VOLTAR</text>
+      </Item>
+    </texts>
+    <comps>
+    </comps>
+    <bounds>0 0 1920 1080</bounds>
+  </Asset>
+</XnaContent>

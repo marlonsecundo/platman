@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="Model.Screen.ScreenModel">
+    <path>Textures/Screen/</path>
+    <arts>
+    </arts>
+    <buttons>
+      <Item>
+        <position>1650 845</position>
+        <name>Amiddle</name>
+        <delay>100</delay>
+        <key>A</key>
+      </Item>
+      <Item>
+        <position>1500 695</position>
+        <name>Xmiddle</name>
+        <delay>100</delay>
+        <key>X</key>
+      </Item>
+      <Item>
+        <position>60 700</position>
+        <name>leftMiddle</name>
+        <delay>100</delay>
+        <key>Left</key>
+      </Item>
+      <Item>
+        <position>360 700</position>
+        <name>rightMiddle</name>
+        <delay>100</delay>
+        <key>Right</key>
+      </Item>
+      <Item>
+        <position>210 850</position>
+        <name>downMiddle</name>
+        <delay>100</delay>
+        <key>Down</key>
+      </Item>
+      <Item>
+        <position>210 550</position>
+        <name>upMiddle</name>
+        <delay>100</delay>
+        <key>Up</key>
+      </Item>
+    </buttons>
+    <texts>
+    </texts>
+    <comps>
+    </comps>
+    <bounds>0 0 1920 1080</bounds>
+  </Asset>
+</XnaContent>

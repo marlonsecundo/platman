@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="Model.Screen.ScreenModel">
+    <path>Textures/Screen/About/</path>
+    <arts>
+      <Item>
+        <position>780 312</position>
+        <animations>
+          <Item>
+            <key>key1</key>
+            <texture>aboutMe</texture>
+            <frameCount>1</frameCount>
+            <rows>1</rows>
+            <columns>1</columns>
+            <delay>100</delay>
+            <repeat>true</repeat>
+          </Item>
+        </animations>
+      </Item>
+      <Item>
+        <position>1440 32</position>
+        <animations>
+          <Item>
+            <key>key1</key>
+            <texture>heatley</texture>
+            <frameCount>1</frameCount>
+            <rows>1</rows>
+            <columns>1</columns>
+            <delay>100</delay>
+            <repeat>true</repeat>
+          </Item>
+        </animations>
+      </Item>
+    </arts>
+    <buttons>
+      <Item>
+        <position>846 975.6</position>
+        <name>middle</name>
+        <delay>100</delay>
+        <key>Back</key>
+      </Item>
+    </buttons>
+    <texts>
+      <Item>
+        <position>1375 360</position>
+        <size>MiddleSmall</size>
+        <text>MUSIC BY: HEATLEYBROS</text>
+      </Item>
+      <Item>
+        <position>1361.7 411.7</position>
+        <size>MiddleSmall</size>
+        <text>FREE MUSIC FOR YOUTUBE</text>
+      </Item>
+      <Item>
+        <position>1339.7 452.7</position>
+        <size>Small</size>
+        <text>www.youtube.com/user/HeatleyBros</text>
+      </Item>
+      <Item>
+        <position>60 46</position>
+        <size>ExtraBig</size>
+        <text>DESENVOLVEDOR</text>
+      </Item>
+      <Item>
+        <position>673 690</position>
+        <size>Big</size>
+        <text>MARLON SECUNDO</text>
+      </Item>
+      <Item>
+        <position>60 180</position>
+        <size>Big</size>
+        <text>GAME DESIGNERS</text>
+      </Item>
+      <Item>
+        <position>60 270</position>
+        <size>Middle</size>
+        <text>* MARLON SECUNDO</text>
+      </Item>
+      <Item>
+        <position>60 330</position>
+        <size>Middle</size>
+        <text>* MILENA BEZERRA</text>
+      </Item>
+      <Item>
+        <position>874.3 990</position>
+        <size>MiddleSmall</size>
+        <text>VOLTAR</text>
+      </Item>
+    </texts>
+    <comps>
+    </comps>
+    <bounds>0 0 1920 1080</bounds>
+  </Asset>
+</XnaContent>

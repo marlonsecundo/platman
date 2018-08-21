@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="Model.Screen.ScreenModel">
+    <path>Textures/Screen/Stage/</path>
+    <arts>
+      <Item>
+        <position>750 318</position>
+        <animations>
+          <Item>
+            <key>key1</key>
+            <texture>head</texture>
+            <frameCount>15</frameCount>
+            <rows>4</rows>
+            <columns>4</columns>
+            <delay>100</delay>
+            <repeat>true</repeat>
+          </Item>
+        </animations>
+      </Item>
+    </arts>
+    <buttons>
+      <Item>
+        <position>840 975.6</position>
+        <name>middle</name>
+        <delay>100</delay>
+        <key>Back</key>
+      </Item>
+    </buttons>
+    <texts>
+      <Item>
+        <position>60.5 60.5</position>
+        <size>ExtraBig</size>
+        <text>ESTÁGIOS</text>
+      </Item>
+      <Item>
+        <position>762 659</position>
+        <size>Big</size>
+        <text>A PROCURA</text>
+      </Item>
+      <Item>
+        <position>868.3 990</position>
+        <size>MiddleSmall</size>
+        <text>VOLTAR</text>
+      </Item>
+    </texts>
+    <comps>
+    </comps>
+    <bounds>0 0 1920 1080</bounds>
+  </Asset>
+</XnaContent>

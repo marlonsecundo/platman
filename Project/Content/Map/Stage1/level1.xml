@@ -1,0 +1,238 @@
+﻿<XnaContent>
+  <Asset Type="Model.Gameplay.LevelModel">
+    <bounds> 0 0 4500 4500</bounds>
+    <background>
+      <texture>space</texture>
+      <screen>
+        <path>Textures/Screen/</path>
+        <arts>
+        </arts>
+        <buttons>
+        </buttons>
+        <texts>
+        </texts>
+        <comps>
+        </comps>
+        <bounds> 0 0 12000 6000</bounds>
+      </screen>
+    </background>
+    <blocks>
+      <Item>
+        <position>1770 3085</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 2100 30</bounds>
+      </Item>
+      <Item>
+        <position>705 3370</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 30 600</bounds>
+      </Item>
+      <Item>
+        <position>1320 3685</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 1260 30</bounds>
+      </Item>
+      <Item>
+        <position>1785 3625</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 330 90</bounds>
+      </Item>
+      <Item>
+        <position>2655 3145</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 330 90</bounds>
+      </Item>
+      <Item>
+        <position>3450 3655</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 1260 30</bounds>
+      </Item>
+      <Item>
+        <position>3585 3595</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 330 90</bounds>
+      </Item>
+      <Item>
+        <position>4095 3205</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 30 930</bounds>
+      </Item>
+      <Item>
+        <position>4035 2890</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 90 300</bounds>
+      </Item>
+      <Item>
+        <position>3375 2515</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 30 810</bounds>
+      </Item>
+      <Item>
+        <position>3435 2260</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 90 300</bounds>
+      </Item>
+      <Item>
+        <position>3420 1745</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 120 310</bounds>
+      </Item>
+      <Item>
+        <position>4095 1335</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 30 810</bounds>
+      </Item>
+      <Item>
+        <position>4020 1080</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 120 300</bounds>
+      </Item>
+      <Item>
+        <position>3315 1080</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 30 300</bounds>
+      </Item>
+      <Item>
+        <position>2940 1605</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 840 30</bounds>
+      </Item>
+      <Item>
+        <position>3705 915</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 810 30</bounds>
+      </Item>
+      <Item>
+        <position>2715 1545</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 390 90</bounds>
+      </Item>
+      <Item>
+        <position>2550 915</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 1500 30</bounds>
+      </Item>
+      <Item>
+        <position>1995 975</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 390 90</bounds>
+      </Item>
+      <Item>
+        <position>1500 1605</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 840 30</bounds>
+      </Item>
+      <Item>
+        <position>750 915</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 840 30</bounds>
+      </Item>
+      <Item>
+        <position>525 1455</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 390 330</bounds>
+      </Item>
+      <Item>
+        <position>345 1110</position>
+        <texture>block</texture>
+        <visible>true</visible>
+        <bounds> 0 0 30 360</bounds>
+      </Item>
+    </blocks>
+    <deathPoints>
+      <Item>
+        <position>2460 2447.3</position>
+        <texture>death</texture>
+        <visible>true</visible>
+        <bounds> 0 0 120 212</bounds>
+      </Item>
+    </deathPoints>
+    <textPoints>
+      <Item>
+        <position>2639.3 2473.3</position>
+        <texture>text</texture>
+        <visible>true</visible>
+        <bounds> 0 0 32 32</bounds>
+        <text>Tenho um caminho a encontrar-Tenho que prosseguir sem hesitar</text>
+      </Item>
+    </textPoints>
+    <musicPoints>
+      <Item>
+        <position>2266 2537.3</position>
+        <texture>music</texture>
+        <visible>true</visible>
+        <bounds> 0 0 32 32</bounds>
+        <music>Bit Select</music>
+      </Item>
+    </musicPoints>
+    <poetryPoints>
+      <Item>
+        <position>2130 2471.3</position>
+        <texture>poetry</texture>
+        <visible>true</visible>
+        <bounds> 0 0 60 44</bounds>
+        <text>TUA JORNADA-De tudo apenas um pouco-Aos poucos tudo se faz-Percorra esse árduo caminho-Tente achar a sua paz.--Paz que alimenta-Teu ser que agora atormenta-Preso num labirinto astuto-Alvo de todo perigo oculto.|Continuar ou não?-Decides tua jornada-Por cada dúvida feita-Por cada resposta encontrada.</text>
+      </Item>
+    </poetryPoints>
+    <gravityPoints>
+      <Item>
+        <position>1494 3586</position>
+        <texture>gravityUp</texture>
+        <visible>true</visible>
+        <bounds> 0 0 168 168</bounds>
+        <orientation>Up</orientation>
+      </Item>
+      <Item>
+        <position>3414 1026</position>
+        <texture>gravityDown</texture>
+        <visible>true</visible>
+        <bounds> 0 0 168 168</bounds>
+        <orientation>Down</orientation>
+      </Item>
+      <Item>
+        <position>3594 3466</position>
+        <texture>gravityRight</texture>
+        <visible>true</visible>
+        <bounds> 0 0 168 168</bounds>
+        <orientation>Right</orientation>
+      </Item>
+    </gravityPoints>
+    <finalPoints>
+      <Item>
+        <position>2997 2250</position>
+        <texture>final</texture>
+        <visible>true</visible>
+        <bounds> 0 0 120 180</bounds>
+      </Item>
+    </finalPoints>
+    <hero>
+      <position>902 3606</position>
+    </hero>
+    <camera>
+      <position>1642 3198</position>
+    </camera>
+  </Asset>
+</XnaContent>

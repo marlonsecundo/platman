@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.1" orientation="orthogonal" renderorder="left-down" width="64" height="36" tilewidth="30" tileheight="30" infinite="0" nextobjectid="9">
+ <tileset firstgid="1" source="ground.tsx"/>
+ <tileset firstgid="29" source="ground.tsx"/>
+ <objectgroup name="root">
+  <object id="1" name="block" gid="28" x="360" y="960" width="720" height="90"/>
+  <object id="2" name="red" gid="23" x="300" y="840" width="840" height="30"/>
+  <object id="8" name="red" gid="51" x="300" y="1020" width="840" height="30"/>
+ </objectgroup>
+</map>

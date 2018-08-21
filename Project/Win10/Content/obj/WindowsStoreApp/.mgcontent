@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Game/Bit Adventure.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Game/Bit Hero.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Game/Bit Hideout.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Game/Bit Select.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Game/Heads Up.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Game/Mystic Forest.mp3</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Screen/Bit Adventure.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Screen/Bit Select.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Bit Ending.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Song/Bit Evil.wma</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/checkpoint.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/death.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/Gravity.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/hurt.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/Jumping.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/Running.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/screen.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/shoot.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/step.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/talk.wav</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Data/Setting.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Fonts/bitdustBig.spritefont</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Fonts/bitdustExtraBig.spritefont</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Fonts/bitdustMiddle.spritefont</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Fonts/bitdustMiddleSmall.spritefont</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Fonts/bitdustSmall.spritefont</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Screen/about.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Screen/help.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Screen/level.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Screen/main.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Screen/settings.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Screen/stage.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Screen/transition.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Animations/death.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Entity/Hero/Jumping.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Entity/Hero/Running.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Entity/Hero/Sliding.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Entity/Hero/Standy.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Entity/Hero/Stopping.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Entity/Hero/Waiting.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Level/gravityBar.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Level/poetry.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/Background/space.jpg</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/Background/stars.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/block.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/blue.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/death.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/final.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/gravityDown.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/gravityLeft.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/gravityRight.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/gravityUp.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/music.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/poetry.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/red.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/Map/text.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/ballonEnd.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/ballonStart.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Gameplay/ballonWidth.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Pressed/middle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Pressed/small.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Released/middle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Released/small.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/mouse.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/About/aboutMe.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/About/heatley.jpg</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Help/jump.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Help/run.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Help/sliding.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Help/standy.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Main/about.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Main/help.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Main/platmanTitle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Main/redBar.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Main/run.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Main/setting.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Main/standy.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Main/start.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Settings/bar.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Stage/Stage1/level1.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Stage/enemy1.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Stage/enemy2.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Stage/head.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Transition/back.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/Transition/head.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Screen/background.jpg</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/blank.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/braid.jpg</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/pinguin.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/planta.jpg</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Screen/input.xml</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Released/Amiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Pressed/Amiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Pressed/Xmiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Released/Xmiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Released/downMiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Released/leftMiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Released/rightMiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Released/upMiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Pressed/downMiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Pressed/leftMiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Pressed/rightMiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Textures/Input/Pressed/upMiddle.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/blank.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/pink.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/red.png</File>
+    <File>C:/Users/Marlo/Dropbox/Platman/Project/Content/Map/Stage1/level1.xml</File>
+  </SourceFiles>
+</SourceFileCollection>

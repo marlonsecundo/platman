@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="Model.Screen.ScreenModel">
+    <path>Textures/Screen/Main/</path>
+    <arts>
+      <Item>
+        <position>818 76</position>
+        <animations>
+          <Item>
+            <key>key1</key>
+            <texture>run</texture>
+            <frameCount>5</frameCount>
+            <rows>2</rows>
+            <columns>3</columns>
+            <delay>100</delay>
+            <repeat>true</repeat>
+          </Item>
+          <Item>
+            <key>key2</key>
+            <texture>standy</texture>
+            <frameCount>15</frameCount>
+            <rows>3</rows>
+            <columns>5</columns>
+            <delay>100</delay>
+            <repeat>true</repeat>
+          </Item>
+        </animations>
+      </Item>
+      <Item>
+        <position>665 223</position>
+        <animations>
+          <Item>
+            <key>key1</key>
+            <texture>platmanTitle</texture>
+            <frameCount>1</frameCount>
+            <rows>1</rows>
+            <columns>1</columns>
+            <delay>100</delay>
+            <repeat>true</repeat>
+          </Item>
+        </animations>
+      </Item>
+      <Item>
+        <position>660 566</position>
+        <animations>
+          <Item>
+            <key>key1</key>
+            <texture>redBar</texture>
+            <frameCount>1</frameCount>
+            <rows>1</rows>
+            <columns>1</columns>
+            <delay>100</delay>
+            <repeat>true</repeat>
+          </Item>
+        </animations>
+      </Item>
+    </arts>
+    <buttons>
+    </buttons>
+    <texts>
+      <Item>
+        <position>885 630.2</position>
+        <size>Middle</size>
+        <text>INICIAR</text>
+      </Item>
+      <Item>
+        <position>775 720.1</position>
+        <size>Middle</size>
+        <text>CONFIGURAÇÕES</text>
+      </Item>
+            <Item>
+        <position>885 810.8</position>
+        <size>Middle</size>
+        <text>AJUDA</text>
+      </Item>
+      <Item>
+        <position>885 900.8</position>
+        <size>Middle</size>
+        <text>SOBRE</text>
+      </Item>
+      <Item>
+        <position>910 990</position>
+        <size>Middle</size>
+        <text>SAIR</text>
+      </Item>
+    </texts>
+    <comps>
+    </comps>
+    <bounds>0 0 1920 1080</bounds>
+  </Asset>
+</XnaContent>

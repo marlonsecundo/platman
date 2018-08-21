@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Marlo/Dropbox/Platman/Project/Content/Audio/Sound/checkpoint.wav</SourceFile>
+  <SourceTime>2016-11-27T19:47:17.6275881-02:00</SourceTime>
+  <DestFile>C:/Users/Marlo/Dropbox/Platman/Project/IOS/Content/bin/iOS/Audio/Sound/checkpoint.xnb</DestFile>
+  <DestTime>2018-01-12T17:15:21.236353-02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

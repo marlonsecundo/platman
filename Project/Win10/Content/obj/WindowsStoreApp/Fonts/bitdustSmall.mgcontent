@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Marlo/Dropbox/Platman/Project/Content/Fonts/bitdustSmall.spritefont</SourceFile>
+  <SourceTime>2017-09-11T17:33:32.523-03:00</SourceTime>
+  <DestFile>C:/Users/Marlo/Dropbox/Platman/Project/Win10/Content/bin/WindowsStoreApp/Fonts/bitdustSmall.xnb</DestFile>
+  <DestTime>2018-01-11T16:36:55.4920947-02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

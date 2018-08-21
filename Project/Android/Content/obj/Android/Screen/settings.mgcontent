@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Marlo/Desktop/Platman/Project/Content/Screen/settings.xml</SourceFile>
+  <SourceTime>2018-01-06T20:15:50-03:00</SourceTime>
+  <DestFile>C:/Users/Marlo/Desktop/Platman/Project/Android/Content/bin/Android/Screen/settings.xnb</DestFile>
+  <DestTime>2018-05-16T19:36:29.1094249-03:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

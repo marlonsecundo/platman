@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>15250f04-455f-4a45-afa3-431e1f79443d</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Platman</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Component\AnimatedComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Animation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Audio\GameMusicPlayer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Audio\GameSoundPlayer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Base\BaseEffect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Base\BaseScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Base\DrawableBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Camera2D.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Effect\AnimationEffect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Effect\ColorEffect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Effect\DelayEffect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Effect\EffectManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Effect\FadeEffect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Effect\RotationEffect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Effect\TextEffect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Effect\TranslationEffect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Const\Velocity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\GameAnimation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\GameLevelScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Mechanic\Collision\Collide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Mechanic\Gravity\GravityManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\Background.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\Block.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\DeathBlock.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\GravityPoint.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\Level.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\MusicPoint.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\Poetry.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\PoetryPoint.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\TextBalloon.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Map\TextPoint.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Person\Hero.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Person\MechanicControler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\Person\StateManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Gameplay\WorldComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\AboutScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\BackgroundScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\HelpScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\Interface\Button\ButtonInput.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Input\IInput.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Input\InputScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\Interface\Art.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\Interface\Button\Button.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\Interface\Button\ButtonMark.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\Interface\GameText.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\Interface\Menu\Menu.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\Interface\Menu\MenuItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\Interface\ProgressBar.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\LevelScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\MainScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\SettingScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\GameScreen\StageScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Input\GamepadInput.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Input\HeroKeys.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Input\KeyboardInput.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Input\MouseInput.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Input\PlayerInput.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Component\Input\TouchInput.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ContentLoader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataBase\DataManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Debug\DebugTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Debug\DebugText.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\RectangleFloat.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\Vector2Ext.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IPlatformDataAdapter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataBase\Settings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Device.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\MatrixExt.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameRoot.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Managers\AnimationManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Managers\CamManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Managers\ResolutionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Managers\Resolution\IResolution.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Managers\Resolution\ResolutionAdapter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Managers\Resolution\ResolutionComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Managers\ScreenManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Managers\ScreenTransitionManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Component\Gameplay\Mechanic\Gravity\" />
+  </ItemGroup>
+</Project>

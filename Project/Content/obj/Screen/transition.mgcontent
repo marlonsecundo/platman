@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Marlo/Desktop/Platman/Project/Content/Screen/transition.xml</SourceFile>
+  <SourceTime>2018-01-04T18:28:41-03:00</SourceTime>
+  <DestFile>C:/Users/Marlo/Desktop/Platman/Project/Content/bin/Screen/transition.xnb</DestFile>
+  <DestTime>2018-05-18T12:47:14.4883529-03:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
